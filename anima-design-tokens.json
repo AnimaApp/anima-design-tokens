@@ -1549,11 +1549,25 @@
       },
       "type": "boxShadow"
     },
-    "paragraphIndent": {
-      "0": {
-        "value": "0px",
-        "type": "dimension"
-      }
+    "xs": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "sm": {
+      "value": "6",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "xl": {
+      "value": "24",
+      "type": "borderRadius"
     }
   },
   "light": {
