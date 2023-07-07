@@ -1,0 +1,24 @@
+{
+  "$extensions": {
+    "com.interplayapp.version": "0.0.1"
+  },
+  "Token 1": {
+    "$type": "typography",
+    "$value": "#FFFFFF"
+  },
+  "Token 2": {
+    "$type": "string",
+    "$extensions": {
+      "com.interplayapp.usedFor": [
+        "borderRadius",
+        "borderWidth",
+        "fontSize",
+        "letterSpacing",
+        "lineHeight",
+        "size",
+        "space"
+      ]
+    },
+    "$value": "drft"
+  }
+}
